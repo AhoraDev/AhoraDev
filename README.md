@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhoraDev
 - 👀 I’m interested in modding games
 - 🌱 I’m currently learning Html css java CSharp C
-- 📫 How to reach me : You Dont
+- 📫 How to reach me : You Dont Am Too Stupid
 
 <!---
 AhoraDev/AhoraDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
